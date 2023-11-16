@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>sdlkfjskldjfsl</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>To success a photo</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>FirebaseScreenReportingEnabled</key>
+		<false/>
+		<key>UIApplicationSupportsTabbedSceneCollection</key>
+		<true/>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>FirebaseAppDelegateProxyEnabled </key>
+		<true/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+</dict>
+</plist>
